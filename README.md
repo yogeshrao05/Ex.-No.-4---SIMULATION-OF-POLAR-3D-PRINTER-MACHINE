@@ -72,8 +72,8 @@ Filament is the material which is to be 3D printed.
 
 ## Output:
 
-### Name: P.Pradeep Raj
-### Register Number: 212222240073
+### Name: yogesh rao S D
+### Register Number: 212222110055
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
